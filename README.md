@@ -1,10 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Repository Name
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+## Overview
+Description of the repository and its purpose.
 
-## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## Projects
+- [Project1](common_core/project1)
+- [Project2](common_core/project2)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+---
+
+### Project1
+#### Description
+Details about Project1.
+
+#### Files
+- `file1.c`: Description of file1.
+- `file2.c`: Description of file2.
