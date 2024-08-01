@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm pouya 👋
 
-<!--
-**with-pouyax/with-pouyax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+[Brief introduction]
 
-Here are some ideas to get you started:
+## Skills
+- Skill 1
+- Skill 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project Name](link) - Short description
+
+## Contact
+[Email](mailto:your.email@example.com)
