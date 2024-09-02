@@ -1,16 +1,14 @@
-<h1 align="left">Hey, Welcome to my Git repository 😊</h1>
+<h1 align="left">Hey, Welcome to my Git repository</h1>
 
 ###
 
 <p align="left">My name is Pouya and I'm a 42 student, living in Vienna</p>
+- 🌱 I’m currently learning C 
 
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning C and bash<br>🎯 </p>
 
-###
-
-<h2 align="left">I code with Vim and Vscode </h2>
 
 ###
 
@@ -18,10 +16,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pouyax&range=all_time&compact=True"/>
 </a>
-//////////////////
-
-- 🌱 I’m currently learning C 
-
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/with-pouyax?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
