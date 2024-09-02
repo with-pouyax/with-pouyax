@@ -1,4 +1,4 @@
-<h1 align="left">Hey, Welcome to my Git repository</h1>
+<h3 align="left">Hey, Welcome to my Git repository</h3>
 
 ###
 
@@ -7,12 +7,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning C and bash<br>🎯 </p>
+<p align="left"> 🌱 I'm currently learning C and bash</p>
 
 
 ###
 
-<h2> Stuff I worked on recently <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"> </h2>
+<h4> Stuff I worked on recently <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"> </h4>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pouyax&range=all_time&compact=True"/>
 </a>
