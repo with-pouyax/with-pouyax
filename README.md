@@ -4,11 +4,7 @@
 
 <p align="left"> 🌱 Currently, I'm learning C and Bash.</p>
 
-<h3 align="left">Stuff I've Worked on Recently</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pouyax&range=all_time&compact=True"/>
-</a>
 
 <h3 align="left">Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px"></h3>
 
