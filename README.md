@@ -1,13 +1,13 @@
+# 👋 Hey, I'm Pouya!
+## 🖥️ I am a 42 Vienna student
 
 <div align="center" style="background: transparent; color: white; padding: 20px; border-radius: 10px;">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZuMGE5anJ1dWYzZXU2ZXAzYzM1Ym9kaXE2czloeTR6bTdrOHZ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZltvhF8MP1VAWeGws/giphy.gif" alt="Cool Animated Banner" width="100%"/>
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd2dGRpMGt4eW9tbjdmaGllMW82a3Q3YW5oaDY2YnRkZGFrc2E0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUvWjjQUP4m0uEoB7/giphy.gif" alt="Cool Animated Banner" width="100%"/>
 </div>
 
-## 👋 Hey, I'm Pouya!
-### 🖥️ I am a 42 Vienna student
-#### 🚀 About Me
+---
+
+## 🚀 About Me
 - 🎓 Currently studying at **42 Vienna**
 - 💻 Passionate about **C, C++, and Bash**
 - 🔨 Always building & improving my coding skills
@@ -22,20 +22,23 @@
 ---
 
 ## 📌 Featured Projects
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/with-pouyax/minishell" style="text-decoration: none;">
-    <div style="width: 250px; height: 120px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364, #1b5e20); color: white; font-size: 22px; text-align: center; line-height: 120px; border-radius: 15px; font-weight: bold; box-shadow: 0 4px 10px rgba(44, 83, 100, 0.5);">Minishell</div>
+<p align="center">
+  <a href="https://github.com/with-pouyax/minishell">
+    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/minishell.svg" width="400">
   </a>
-  <a href="https://github.com/with-pouyax/minitalk" style="text-decoration: none;">
-    <div style="width: 250px; height: 120px; background: linear-gradient(135deg, #232526, #414345, #388e3c); color: white; font-size: 22px; text-align: center; line-height: 120px; border-radius: 15px; font-weight: bold; box-shadow: 0 4px 10px rgba(65, 67, 69, 0.5);">Minitalk</div>
+  <a href="https://github.com/with-pouyax/minitalk">
+    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/minitalk.svg" width="400">
   </a>
-  <a href="https://github.com/with-pouyax/philosophers" style="text-decoration: none;">
-    <div style="width: 250px; height: 120px; background: linear-gradient(135deg, #1e3c72, #2a5298, #2e7d32); color: white; font-size: 22px; text-align: center; line-height: 120px; border-radius: 15px; font-weight: bold; box-shadow: 0 4px 10px rgba(42, 82, 152, 0.5);">Philosophers</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/with-pouyax/philosophers">
+    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/Philosophers.svg" width="400">
   </a>
-  <a href="https://github.com/with-pouyax/so_long" style="text-decoration: none;">
-    <div style="width: 250px; height: 120px; background: linear-gradient(135deg, #0b132b, #1c2541, #3a506b, #1b5e20); color: white; font-size: 22px; text-align: center; line-height: 120px; border-radius: 15px; font-weight: bold; box-shadow: 0 4px 10px rgba(58, 80, 107, 0.5);">So_long</div>
+  <a href="https://github.com/with-pouyax/so_long">
+    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/So_long.svg" width="400">
   </a>
-</div>
+</p>
 
 ---
 
