@@ -1,5 +1,4 @@
-# 👋 Hey, I'm Pouya!
-## 🖥️ I am a 42 Vienna student
+## Hey, I'm Pouya!
 
 <div align="center" style="background: transparent; color: white; padding: 20px; border-radius: 10px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd2dGRpMGt4eW9tbjdmaGllMW82a3Q3YW5oaDY2YnRkZGFrc2E0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUvWjjQUP4m0uEoB7/giphy.gif" alt="Cool Animated Banner" width="100%"/>
