@@ -1,3 +1,8 @@
+<!-- 3D Contribution Chart -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Chart" width="100%" />
+</p>
+
 ## Hey, I'm Pouya!
 
 <div align="center" style="background: transparent; color: white; padding: 20px; border-radius: 10px;">
