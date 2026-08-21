@@ -1,13 +1,1 @@
-<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="minitalkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#000000; stop-opacity:1" />
-      <stop offset="40%" style="stop-color:#006c3a; stop-opacity:1" />
-      <stop offset="80%" style="stop-color:#008f4f; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#292929; stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="400" height="100" rx="30" ry="30" fill="url(#minitalkGradient)"/>
-  <text x="200" y="55" font-family="Arial" font-size="35" fill="white" text-anchor="middle" font-weight="bold">MINITALK</text>
-</svg>
-
+<svg width="440" height="190" viewBox="0 0 440 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d"><title id="t">minitalk</title><desc id="d">Client-server communication using Unix signals and bit operations.</desc><defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#091522"/><stop offset="1" stop-color="#1D1B16"/></linearGradient></defs><rect x="1" y="1" width="438" height="188" rx="18" fill="url(#g)" stroke="#FBBF24" stroke-opacity=".34" stroke-width="2"/><circle cx="32" cy="31" r="5" fill="#FBBF24"/><text x="48" y="36" fill="#FDE68A" font-family="monospace" font-size="12" letter-spacing="1.4">FEATURED / 04</text><text x="28" y="88" fill="#F8FAFC" font-family="system-ui,sans-serif" font-size="27" font-weight="700">minitalk</text><text x="28" y="118" fill="#94A3B8" font-family="system-ui,sans-serif" font-size="14">Client-server communication using</text><text x="28" y="139" fill="#94A3B8" font-family="system-ui,sans-serif" font-size="14">Unix signals and bit operations.</text><rect x="28" y="156" width="40" height="20" rx="10" fill="#FBBF24" fill-opacity=".12"/><text x="41" y="170" fill="#FDE68A" font-family="monospace" font-size="11">C</text><text x="382" y="164" fill="#FBBF24" font-family="system-ui,sans-serif" font-size="23">↗</text></svg>
