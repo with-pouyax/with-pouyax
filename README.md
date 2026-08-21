@@ -1,56 +1,50 @@
-<!-- 3D Contribution Chart -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Chart" width="100%" />
-</p>
-
-## Hey, I'm Pouya!
-
-<!--
-<div align="center" style="background: transparent; color: white; padding: 20px; border-radius: 10px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd2dGRpMGt4eW9tbjdmaGllMW82a3Q3YW5oaDY2YnRkZGFrc2E0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUvWjjQUP4m0uEoB7/giphy.gif" alt="Cool Animated Banner" width="100%"/>
-</div>
--->
-
----
-
-## 🚀 About Me
-- 🎓 Currently studying at **42 Vienna**
-- 💻 Passionate about **C, C++, and Bash**
-- 🔨 Always building & improving my coding skills
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vscode" alt="Tech Stack" />
-</p>
-
----
-
-## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/with-pouyax/minishell">
-    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/minishell.svg" width="400">
-  </a>
-  <a href="https://github.com/with-pouyax/minitalk">
-    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/minitalk.svg" width="400">
-  </a>
+  <img src="./profile-header.svg" alt="Pouya — systems-minded software developer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/with-pouyax/philosophers">
-    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/Philosophers.svg" width="400">
-  </a>
-  <a href="https://github.com/with-pouyax/so_long">
-    <img src="https://raw.githubusercontent.com/with-pouyax/with-pouyax/main/So_long.svg" width="400">
-  </a>
+  <a href="https://github.com/with-pouyax?tab=repositories"><img src="https://img.shields.io/badge/BUILDING-LOW--LEVEL%20SOFTWARE-10b981?style=flat-square&labelColor=0b1220" alt="Building low-level software" /></a>
+  <a href="https://www.42vienna.com/"><img src="https://img.shields.io/badge/42-VIENNA-e5e7eb?style=flat-square&labelColor=0b1220" alt="42 Vienna" /></a>
+  <a href="https://www.linkedin.com/in/pouyax/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-38bdf8?style=flat-square&labelColor=0b1220&logo=linkedin&logoColor=38bdf8" alt="Connect on LinkedIn" /></a>
 </p>
 
----
+<br />
 
-## 🔗 Connect with Me
+## A little about me
+
+I’m a software developer studying at **42 Vienna**, drawn to the layer where software meets the machine. I enjoy turning complex problems into small, dependable programs—and understanding every abstraction I use along the way.
+
+- Currently sharpening my systems programming through the 42 curriculum
+- Working primarily with **C**, **C++**, **Bash**, and **Linux**
+- Interested in Unix internals, concurrency, graphics, and developer tooling
+
+<br />
+
+## Selected work
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/pouyax/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/with-pouyax/minishell"><img src="./minishell.svg" width="49%" alt="Minishell project card" /></a>
+  <a href="https://github.com/with-pouyax/philosophers"><img src="./Philosophers.svg" width="49%" alt="Philosophers project card" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/with-pouyax/so_long"><img src="./So_long.svg" width="49%" alt="so_long project card" /></a>
+  <a href="https://github.com/with-pouyax/minitalk"><img src="./minitalk.svg" width="49%" alt="Minitalk project card" /></a>
+</p>
+
+<br />
+
+## Tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,git,github,vscode&theme=dark" alt="C, C++, Bash, Linux, Docker, Git, GitHub, and VS Code" />
+</p>
+
+<br />
+
+## Contribution landscape
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Pouya's 3D GitHub contribution chart" width="100%" />
+</p>
+
+<p align="center"><sub>Always learning. Usually debugging. Occasionally remembering the semicolon.</sub></p>
