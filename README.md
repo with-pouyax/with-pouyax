@@ -20,7 +20,7 @@ My professional work includes Power Platform applications, operational analytics
 | [**Pharma maintenance demo**](https://github.com/with-pouyax/pharma-maintenance-powerapp-demo) | Independent sample-data Power Apps, Dataverse, Power Automate and Power BI solution. |
 | [**cub3D**](https://github.com/with-pouyax/cub3D) | Textured first-person rendering from a 2D map in C. |
 | [**minishell**](https://github.com/with-pouyax/minishell) | Unix shell with tokenization, expansion, redirections, pipelines and process control. |
-| [**42 Docker DevEnv**](https://github.com/with-pouyax/42-Docker-DevEnv) | Development-container setup for 42-style workflows; adapted from and credited to the upstream project. |
+| [**philosophers**](https://github.com/with-pouyax/philosophers) | Pthreads and mutex synchronization in a timed concurrency simulation. |
 | [**CPP Modules**](https://github.com/with-pouyax/CPP-Modules) | A progression of C++98 exercises, from object-oriented design to containers and templates. |
 
 ## How I work
