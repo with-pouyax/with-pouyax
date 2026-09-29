@@ -14,6 +14,8 @@ My professional work includes Power Platform applications, operational analytics
 
 ## Selected work
 
+<a href="https://github.com/BalazsHoc/ft_transcendence"><img src="./vienna-active.svg" alt="Vienna Active, final 42 team project: groups, home and deployment" width="100%"></a>
+
 | Project | Why open it |
 | --- | --- |
 | [**Vienna Active · ft_transcendence ↗**](https://github.com/BalazsHoc/ft_transcendence) | Final 42 team project: a full-stack sports community platform. I built the groups experience and logged-in home, contributed API integration, and owned much of the Docker, PostgreSQL and nginx deployment workflow. **Original team repository; shared ownership.** |
